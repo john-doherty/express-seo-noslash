@@ -1,5 +1,5 @@
 {
-  "name": "express-seo-robots",
+  "name": "express-seo-noslash",
   "version": "1.0.0",
   "description": "Remove trailing slashes from incoming urls using 301 redirects",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "keywords": [
     "express",
     "seo",
+    "redirect",
     "noslash"
   ],
   "author": "John Doherty <contact@johndoherty.info> (www.johndoherty.info)",
