@@ -1,0 +1,1 @@
+module.exports = require('./lib/express-seo-noslash.js');

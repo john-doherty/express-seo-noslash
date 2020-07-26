@@ -1,0 +1,24 @@
+{
+  "name": "express-seo-robots",
+  "version": "1.0.0",
+  "description": "Remove trailing slashes from incoming urls using 301 redirects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orca-scan/express-seo-noslash.git"
+  },
+  "keywords": [
+    "express",
+    "seo",
+    "noslash"
+  ],
+  "author": "John Doherty <contact@johndoherty.info> (www.johndoherty.info)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orca-scan/express-seo-noslash/issues"
+  },
+  "homepage": "https://github.com/orca-scan/express-seo-noslash#readme"
+}
