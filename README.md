@@ -30,7 +30,7 @@ Incoming requests to `/my-page/` will be 301 redirected to `/my-page`
 
 ## Contributing
 
-Feel free to contribute, either by [raising an issue](https://github.com/orca-scan/express-seo-noslash/issues) or:
+Feel free to contribute, either by [raising an issue](https://github.com/john-doherty/express-seo-noslash/issues) or:
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -40,8 +40,8 @@ Feel free to contribute, either by [raising an issue](https://github.com/orca-sc
 
 ## History
 
-For change-log, check [releases](https://github.com/orca-scan/express-seo-noslash/releases).
+For change-log, check [releases](https://github.com/john-doherty/express-seo-noslash/releases).
 
 ## License
 
-Licensed under [MIT License](LICENSE) &copy; Orca Scan, the [Barcode Scanner app for iOS and Android](https://orcascan.com).
+Licensed under [MIT License](LICENSE) &copy; [John Doherty](https://twitter.com/mrjohndoherty)
