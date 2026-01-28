@@ -4,7 +4,7 @@
   "description": "Remove trailing slashes from incoming urls using 301 redirects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/.bin/jasmine --config=tests/jasmine/config.json"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/john-doherty/express-seo-noslash/issues"
   },
-  "homepage": "https://github.com/john-doherty/express-seo-noslash#readme"
+  "homepage": "https://github.com/john-doherty/express-seo-noslash#readme",
+  "devDependencies": {
+    "jasmine": "^4.6.0",
+    "jasmine-console-reporter": "^3.1.0"
+  }
 }
