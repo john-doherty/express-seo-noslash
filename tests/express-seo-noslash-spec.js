@@ -73,7 +73,7 @@ describe('express-seo-noslash tests', function () {
         expect(next).toHaveBeenCalled();
     });
 
-    fit('should concat multiple starting / to a single /', function () {
+    it('should shorten multiple starting / to a single /', function () {
         req = {
             'method': 'GET',
             'url': '//test.com/'
