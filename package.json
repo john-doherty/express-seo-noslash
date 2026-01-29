@@ -1,6 +1,6 @@
 {
   "name": "express-seo-noslash",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Remove trailing slashes from incoming urls using 301 redirects",
   "main": "index.js",
   "scripts": {
